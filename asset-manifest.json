@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-lifecycle-methods/static/css/main.9f970b6f.css",
+    "main.js": "/react-lifecycle-methods/static/js/main.d9836ef4.js",
+    "index.html": "/react-lifecycle-methods/index.html",
+    "main.9f970b6f.css.map": "/react-lifecycle-methods/static/css/main.9f970b6f.css.map",
+    "main.d9836ef4.js.map": "/react-lifecycle-methods/static/js/main.d9836ef4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f970b6f.css",
+    "static/js/main.d9836ef4.js"
+  ]
+}
